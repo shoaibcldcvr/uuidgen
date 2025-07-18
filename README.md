@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # UUID Generator (Go)
 
 A fast, customizable UUID generator with CLI and library support.
